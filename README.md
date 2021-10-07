@@ -13,7 +13,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ## Overview
 
-This is a solution to the Stats preview card component challenge on Frontend Mentor.
+This is a solution to the Clipboard landing page challenge on Frontend Mentor.
 
 ### The challenge
 
