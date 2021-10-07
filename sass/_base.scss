@@ -1,0 +1,44 @@
+$primary-strong-cyan: hsl(171, 66%, 44%);
+$primary-light-cyan: hsl(171, 47%, 56%);
+$primary-light-blue: hsl(233, 100%, 69%);
+$primary-very-light-blue: hsla(233, 84%, 71%, 0.938);
+
+$primary-white: hsl(0, 0%, 100%);
+$primary-black: hsl(0, 0%, 0%);
+
+$neutral-dark-grayish-blue: hsl(210, 10%, 33%);
+$neutral-grayish-blue: hsl(201, 11%, 66%);
+$neutral-light-grey: hsl(0, 0%, 96%);
+
+/* Utility class */
+.margin-small {
+  margin-top: 1rem;
+}
+
+.margin-medium {
+  margin-top: 2rem;
+}
+
+.margin-large {
+  margin-top: 3rem;
+}
+
+/*   CSS reset */
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-size: 1.7rem;
+  line-height: 1.7;
+}
